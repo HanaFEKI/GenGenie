@@ -1,1 +1,14 @@
-DNA string : 
+DNA string : long sequence of ATGC/ nucleotides (what the model processes)
+  - Prokaryotes: simple organisms like bacteria. Typically has a single circular chromosome.
+  - Eukaryote: complex organisms like humans or yeast. Humans have 46 chromosomes.
+By DNA string is meant the physical DNA molecule
+
+- Chromosomes: DNA is really long, so it is split into 46 parts, that are organized in chromosomes. Most cells contain all 46 chromosomes.
+
+- Genome: all genetic material in an organism. So all 46 chromosomes for humans. All information for an organism to function and reproduce.
+
+- Nucleotide: basic building block of DNA strands. Can be A, C, G or T.
+
+- Base pairs: DNA is double stranded, and the strands are held together by nucleotides pairing up. A pairs to T, and G pairs to C.
+
+The reason the model works with single ACGT strings instead of pairs, is that they are always complementary anyways. A always pairs to T, G always pairs to C.
